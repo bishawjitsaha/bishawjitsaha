@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Name is Bishawjit Saha and I study at Stevens Institute of Techonology.
+
 <!--
 **bishawjitsaha/bishawjitsaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
