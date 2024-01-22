@@ -4,6 +4,8 @@ My Name is Bishawjit Saha and I study at Stevens Institute of Techonology.
 
 Favorite Projects:
 
+[Harmoniq](https://github.com/devv64/harmoniq)
+
 [Word Boss](https://github.com/ColleenQue/Word-Boss)
 
 [Self Driving Car Sim](https://gitlab.com/cs347spring23/cs-347-b/team6/hug-the-lanes-iot)
